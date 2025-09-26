@@ -24,4 +24,4 @@ This project implements an automated ticket assignment system in ServiceNow, ens
 3. Tickets are automatically assigned to the relevant support group
 
 
-Demo Video : https://drive.google.com/file/d/1jvPBq8o3OJB4F48DsYHhmCOM3lvksthr/view?usp=sharing
+Demo Video : [https://drive.google.com/file/d/1jvPBq8o3OJB4F48DsYHhmCOM3lvksthr/view?usp=sharing](https://drive.google.com/file/d/1wSxWWNQNnXQ1VPFt0gJPVMg4vd1LHoQd/view?usp=sharing)
